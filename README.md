@@ -5,7 +5,7 @@
 + para screenshoots (Para quem usa tema escuro)
 
 ## ⚠️ Warning
-#### Fotos coloridas ficam preto e branco.
+#### Fotos coloridas ficam em preto e branco.
 
 ### Foto da Web-Ferramenta
 
