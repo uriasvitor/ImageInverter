@@ -1,7 +1,7 @@
 # Image_Inverter.js
 
 ## Uma simples web-ferramenta para inverter a cor da foto ideal para: 
-+ imprimir (Geralmente as empresoras nao imprime na cor branca)
++ imprimir (Geralmente as empresoras nao imprimem na cor branca)
 + para screenshoots (Para quem usa tema escuro)
 
 ## ⚠️ Warning
