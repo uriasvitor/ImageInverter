@@ -1,7 +1,7 @@
 # Image_Inverter.js
 
 ## Uma simples web-ferramenta para inverter a cor da foto ideal para: 
-+ imprimir (Geralmente as empresoras nao imprimem na cor branca)
++ imprimir, impressoras geralmente trabalham em um sistema de cores CMYK (Ciano, Magenta, Amarelo e Preto), onde a cor branca é representada pela ausência de tinta, utilizando o branco do papel como base.
 + para screenshoots (Para quem usa tema escuro)
 
 ## ⚠️ Warning
